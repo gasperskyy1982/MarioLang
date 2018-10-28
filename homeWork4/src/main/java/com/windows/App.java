@@ -12,7 +12,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        Hero.setVersion("2.1");
+        Hero.setVersion("2.2");
         Hero hero = new Hero();
     }
 }
